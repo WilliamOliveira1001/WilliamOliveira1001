@@ -3,7 +3,7 @@ Olá, sou o William OLiveira 👋
 - 🔭 Desenvolvedor Front-End ...
 - 🌱 Cursando desenvolvimento Full-stack na KenzieAcademyBrasil ...
 - 😄 Apaixonado por React ...
-
+##
 <div align="center">
   <a href="https://github.com/WilliamOLiveira1001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamOLiveira1001&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -21,6 +21,7 @@ Olá, sou o William OLiveira 👋
   <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
   <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
-    
+  <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />  
   </div>
+  
+##
