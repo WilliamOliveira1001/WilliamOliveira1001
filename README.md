@@ -4,6 +4,7 @@ Olá, sou o William OLiveira 👋
 - 🌱 Cursando desenvolvimento Full-stack na KenzieAcademyBrasil ...
 - 😄 Apaixonado por React ...
 ##
+
 <div align="center">
   <a href="https://github.com/WilliamOLiveira1001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamOLiveira1001&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
